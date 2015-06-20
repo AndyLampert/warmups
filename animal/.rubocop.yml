@@ -1,0 +1,6 @@
+AllCops:
+  Exclude:
+    - "Gemfile"
+    - "Guardfile"
+Documentation:
+  Enabled: false
